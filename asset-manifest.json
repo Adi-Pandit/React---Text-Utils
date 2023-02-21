@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Adi-Pandit/React---Text-Utils.git/static/css/main.2784506f.css",
+    "main.js": "/Adi-Pandit/React---Text-Utils.git/static/js/main.40928448.js",
+    "static/js/787.27fb6eb7.chunk.js": "/Adi-Pandit/React---Text-Utils.git/static/js/787.27fb6eb7.chunk.js",
+    "index.html": "/Adi-Pandit/React---Text-Utils.git/index.html",
+    "main.2784506f.css.map": "/Adi-Pandit/React---Text-Utils.git/static/css/main.2784506f.css.map",
+    "main.40928448.js.map": "/Adi-Pandit/React---Text-Utils.git/static/js/main.40928448.js.map",
+    "787.27fb6eb7.chunk.js.map": "/Adi-Pandit/React---Text-Utils.git/static/js/787.27fb6eb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.40928448.js"
+  ]
+}
